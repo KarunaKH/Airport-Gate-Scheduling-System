@@ -1,6 +1,6 @@
 # Airport-Gate-Scheduling-System
 
-Airport Gate Scheduling System is an automatic assignment of Landing time and Take-off time for each of the airplanes based on various constraints so that no two planes' have schedule conflict.
+Airport Gate Scheduling System is an automatic assignment of Landing time and Take-off time for each of the airplanes based on various constraints so that no two planes have schedule conflict.
 
 NOTATIONS:
 - N = Number of airplanes flying over the airport, waiting to land, unload passengers, board new passengers, and take off again.
