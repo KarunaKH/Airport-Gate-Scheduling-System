@@ -78,4 +78,5 @@ After these minutes, it cannot have a valid solution, so why even try it!**
 
 Why this attempt will succeed?
 There are a lot of constraints which is advantageous in this attempt because if you reduce the size of the domain for each of the planes, you can reduce the number of trail and errors!
+Also, the tighter the constraints, the quicker the domain values decreases, the faster the algorithm!
 This particular algorithm can produce a valid assignment for as high as **N=100 planes under 60 seconds!**
