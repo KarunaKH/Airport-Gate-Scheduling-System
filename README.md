@@ -17,7 +17,7 @@ Airport Gate Scheduling System is an automatic assignment of Landing time and Ta
 N=1 R=5 M=10 S=50 O=20 C=70
 - There is only 1 flight that needs to be scheduled.
 - The flight can wait upto 5 minutes before its out of fuel(R=5), so Landing procedure needs to start between 0-5 mins.
-- The flight requires 10 minutes to land(M=10), so if the flight started landing at 0 mins, it will finish its landing and reach one of the gates at 15 mins.
+- The flight requires 10 minutes to land(M=10), so if the flight started landing at 5 mins, it will finish its landing and reach one of the gates at 15 mins.
 - The flight requires 50 mins for maintenance and servicing(S=50), so the flight will be serviced from 15-65 mins.
 - The flight can stay at the gate for 70 mins max(C=70), so we need to begin take-off between 65-85 mins before customers start complaining since we utilised 50 mins at the gate for servicing, we have only 20 mins left.
 - The flight will take 20 mins to fully take-off and be in the air(O=20), so if we take off at 65, we can begin serving inflight beverages at 85 mins.
